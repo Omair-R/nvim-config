@@ -26,6 +26,7 @@ ____________________________
 - [**Lua**](https://www.lua.org/)
 - [**RipGrep**](https://github.com/BurntSushi/ripgrep)
 - Any C compiler ( [**clang**](https://clang.llvm.org/get_started.html) is my favourite).
+- [**Npm**](https://www.npmjs.com/)
 
 > [!NOTE]
 > Not many languages are required by the Lsp. You might want to add your requirements for automatic installs or You can use the command `:Mason` and install them manually :3 
