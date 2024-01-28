@@ -96,6 +96,7 @@ return packer.startup(function(use)
             { 'neovim/nvim-lspconfig' },
             -- Autocompletion
             { 'hrsh7th/nvim-cmp' },
+            { 'saadparwaiz1/cmp_luasnip' },
             { 'hrsh7th/cmp-nvim-lsp' },
             { 'hrsh7th/cmp-nvim-lua' },
             { 'hrsh7th/cmp-path' },
